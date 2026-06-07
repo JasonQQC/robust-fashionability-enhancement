@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Robust Fashionability Enhancement"
+message: "If you use this repository, please cite the corresponding manuscript."
+type: software
+authors:
+  - family-names: "To be released"
+    given-names: "In a future update"
+repository-code: "https://github.com/TO-BE-UPDATED/robust-fashionability-enhancement"
+abstract: "Public reproducibility subset for robust fashionability enhancement experiments."
+keywords:
+  - fashionability
+  - evaluation
+  - lpips
+  - reproducibility
+license: MIT
